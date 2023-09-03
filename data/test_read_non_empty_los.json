@@ -1,0 +1,20 @@
+[
+  {
+    "cube": "THREE",
+    "time": "PT30S",
+    "status": 1,
+    "scramble": "U B2 L R2 F2 L' F2 D' L B2 F D' L U F2 U2 L"
+  },
+  {
+    "cube": "FOUR",
+    "time": "PT40S",
+    "status": 2,
+    "scramble": "B L' F2 R U2 B2 U2 F2 L B2 R' U2 D' R U B' L2 U' D L Rw2 Uw2 L Fw2 B2 U2 B' L' Fw2 R Fw2 R2 L' Uw L' Uw U2 F Rw' Fw' U2 B Uw Fw'"
+  },
+  {
+    "cube": "FIVE",
+    "time": "PT50S",
+    "status": 3,
+    "scramble": "Rw2 Lw2 Dw' U' B' Bw2 F R2 Lw' Bw' Dw B Rw Bw' Lw' R2 F' Lw R2 F' Uw' D2 B U2 F Fw2 Dw Lw2 Uw' U F Uw2 F2 R Rw' L' Dw2 F B' Dw2 R2 Dw' Lw L' Uw' F2 U2 B' Rw' Bw' U Bw' Fw Uw L U2 Bw2 Rw D Rw"
+  }
+]

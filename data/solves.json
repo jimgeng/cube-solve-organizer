@@ -1,0 +1,20 @@
+[
+    {
+        "cube": "THREE",
+        "time": "PT7.1334965S",
+        "status": 2,
+        "scramble": "D2 B2 U' L U2 L F2 U2 L2 D2 R B L D B' R2 F D' R"
+    },
+    {
+        "cube": "THREE",
+        "time": "PT0.7459898S",
+        "status": 1,
+        "scramble": "B2 R2 D L2 U R2 U2 R B2 L D' R2 D' U B2 D B' D'"
+    },
+    {
+        "cube": "THREE",
+        "time": "PT0.7432058S",
+        "status": 1,
+        "scramble": "U' R U2 R' B' L' D' R2 U2 L' B D2 B2 R2 B2 R2 B' U2 F'"
+    }
+]

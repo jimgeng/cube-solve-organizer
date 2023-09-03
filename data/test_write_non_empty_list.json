@@ -1,0 +1,20 @@
+[
+    {
+        "cube": "THREE",
+        "time": "PT30S",
+        "status": 1,
+        "scramble": "Test1"
+    },
+    {
+        "cube": "FOUR",
+        "time": "PT40S",
+        "status": 2,
+        "scramble": "Test2"
+    },
+    {
+        "cube": "FIVE",
+        "time": "PT50S",
+        "status": 3,
+        "scramble": "Test3"
+    }
+]
